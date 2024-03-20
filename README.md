@@ -1,2 +1,2 @@
-# sql
+# SQL
 Documentos em SQL
